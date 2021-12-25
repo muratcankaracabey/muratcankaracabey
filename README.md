@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on 🤔
-- 🌱 I’m currently learning Flask
+- 🔭 I’m currently working on a mobile application
+- 🌱 I’m currently learning Flutter/Dart
 - 👯 I’m looking to collaborate on 🤔
 - 🤔 I’m looking for help with 🤔
 - 💬 Ask me about anything in general with software development and let's see if I can help
